@@ -1,14 +1,15 @@
 
 # motionkartik | Essentials
+![badge](https://img.shields.io/badge/motionkartik-Introduction-fff200)
 #### These are highly curated lists of Apps & Sites I use on daily basis.
 *Disclaimer - I do not endorse Piracy, links are for education purpose only.*
 
-![badge](https://img.shields.io/badge/motionkartik-essentials-fff200)
+
 
 > I've created this as a public collection so no matter where I am, with just access to internet, I could quickly access all my essential tools and softwares.
 
-## Bookmarks
-![badge](https://img.shields.io/badge/Bookmarks-4287f5)
+## Bookmarks ✨
+![badge](https://img.shields.io/badge/motionkartik-Bookmarks-4287f5)
 - [Adobe](https://w14.monkrus.ws/) - All Adobe Softwares
 - [VFXDownload](https://vfxdownload.net/) - VFX Aseets
 -  [4Download](https://4download.net/) - Audio/Video Softwares and Tools
@@ -16,8 +17,8 @@
 - [free-mp3-download](https://free-mp3-download.net/) - The only True Free 320kbps MP3 Downloader _(requires VPN)_
 - [Aniwave](https://aniwave.to/home) - Watch Anime Online 
 
-## Extensions
-![badge](https://img.shields.io/badge/Extensions-4287f5)
+## Extensions ✨
+![badge](https://img.shields.io/badge/motionkartik-Extensions-4287f5)
 | Extensions | Chrome | Firefox |
 | ------ | ------ | ------ |
 | Ublock Origin | [Chrome][PlCubo] | [Firefox][PlFubo]
@@ -30,8 +31,9 @@
 | Infinity Tab Pro | [Chrome][PlCitb] | [Firefox][PlFitp]
 | XDM | [Chrome][PlCxdm] | [Firefox][PlFxdm]
 
-## Fresh Install✨
+## Windows✨
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<br/>
 ![badge](https://img.shields.io/badge/Raw_Codes-fff200)
 
 My [Winstall](https://winstall.app/packs/wxyeF7DAF) for Fresh Installation on Windows.
@@ -51,11 +53,15 @@ SpotX
 ![badge](https://img.shields.io/badge/Websites-fff200)
 ![badge](https://img.shields.io/badge/Raw_Codes-fff200)
 
+## MacOS✨
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+<br/>
 ![badge](https://img.shields.io/badge/Softwares-fff200)
 ![badge](https://img.shields.io/badge/Raw_Codes-fff200)
 
+## Android✨
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<br/>
 ![badge](https://img.shields.io/badge/Softwares-fff200)
 ![badge](https://img.shields.io/badge/Raw_Codes-fff200)
 
