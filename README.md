@@ -66,7 +66,7 @@ SpotX
 ![badge](https://img.shields.io/badge/Raw_Codes-fff200)
 
 ## License
-![license](https://github.com/motionkartik/)
+[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen)
