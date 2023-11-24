@@ -45,7 +45,7 @@ iwr -useb https://massgrave.dev/get | iex
 
 SpotX
 ```sh
-[Net.ServicePointManager]::SecurityProtocol = 3072; iex "& { $((iwr -useb 'https://cdn.statically.io/gh/amd64fox/SpotX/main/Install.ps1').Content) } -new_theme"
+[Net.ServicePointManager]::SecurityProtocol = 3072; iex "& { $(iwr -useb 'https://spotx-official.github.io/run.ps1') } -new_theme"
 ```
 
 ![badge](https://img.shields.io/badge/Softwares-fff200)
