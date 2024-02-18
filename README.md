@@ -42,6 +42,14 @@ MAS
 ```sh
 iwr -useb https://massgrave.dev/get | iex
 ```
+CTT Ultimate Windows Utility
+```sh
+iwr -useb https://christitus.com/win | iex
+```
+CC-ToolBox for GenP
+```sh
+irm y.gy/toolbox | iex
+```
 
 SpotX
 ```sh
