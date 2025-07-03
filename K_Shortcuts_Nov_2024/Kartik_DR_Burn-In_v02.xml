@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--DbAppVer="19.1.2.0003" DbPrjVer="14"-->
+<FontRenderItemVec DbId="52e5aa2d-18f5-4480-aee8-0c3d0d8d36fb">
+ <FieldsBlob/>
+ <InheritedCollection>
+  <Element>
+   <FontRenderItem DbId="6b234a98-6519-4314-89eb-1442b222abd0">
+    <FieldsBlob>0000000100000001000000100046006f006e007400530069007a006500000087003f92f684c0000000</FieldsBlob>
+    <Text/>
+    <FontDesc>Open Sans,-1,40,5,50,0,0,0,0,0</FontDesc>
+    <Type>12</Type>
+    <X>1</X>
+    <Y>0.970370352268219</Y>
+    <ForegroundColor>
+     <Element>1</Element>
+     <Element>1</Element>
+     <Element>1</Element>
+    </ForegroundColor>
+    <BackgroundColor>
+     <Element>0</Element>
+     <Element>0</Element>
+     <Element>0</Element>
+    </BackgroundColor>
+    <Opacity>0.30000001192092896</Opacity>
+    <HorzAlign>2</HorzAlign>
+    <IsFadeUp>false</IsFadeUp>
+    <FadeUp>0</FadeUp>
+    <IsFadeDown>false</IsFadeDown>
+    <FadeDown>0</FadeDown>
+    <Logo/>
+    <IsRenderTextPrefixed>true</IsRenderTextPrefixed>
+   </FontRenderItem>
+  </Element>
+  <Element>
+   <FontRenderItem DbId="7ac147e9-2bac-4f98-9351-e10b2ee42f39">
+    <FieldsBlob>0000000100000001000000100046006f006e007400530069007a006500000087003f92f684c0000000</FieldsBlob>
+    <Text>%{Frames} Frames</Text>
+    <FontDesc>Open Sans,-1,40,5,50,0,0,0,0,0</FontDesc>
+    <Type>128</Type>
+    <X>0.49531248211860657</X>
+    <Y>0.970370352268219</Y>
+    <ForegroundColor>
+     <Element>1</Element>
+     <Element>1</Element>
+     <Element>1</Element>
+    </ForegroundColor>
+    <BackgroundColor>
+     <Element>0</Element>
+     <Element>0</Element>
+     <Element>0</Element>
+    </BackgroundColor>
+    <Opacity>0.30000001192092896</Opacity>
+    <HorzAlign>1</HorzAlign>
+    <IsFadeUp>false</IsFadeUp>
+    <FadeUp>0</FadeUp>
+    <IsFadeDown>false</IsFadeDown>
+    <FadeDown>0</FadeDown>
+    <Logo/>
+    <IsRenderTextPrefixed>true</IsRenderTextPrefixed>
+   </FontRenderItem>
+  </Element>
+  <Element>
+   <FontRenderItem DbId="c631a29d-88a6-4291-a31c-864a56535961">
+    <FieldsBlob>0000000100000001000000100046006f006e007400530069007a006500000087003f92f684c0000000</FieldsBlob>
+    <Text>%{Clip Name}</Text>
+    <FontDesc>Open Sans,-1,40,5,50,0,0,0,0,0</FontDesc>
+    <Type>129</Type>
+    <X>0</X>
+    <Y>0.970370352268219</Y>
+    <ForegroundColor>
+     <Element>1</Element>
+     <Element>1</Element>
+     <Element>1</Element>
+    </ForegroundColor>
+    <BackgroundColor>
+     <Element>0</Element>
+     <Element>0</Element>
+     <Element>0</Element>
+    </BackgroundColor>
+    <Opacity>0.30000001192092896</Opacity>
+    <HorzAlign>0</HorzAlign>
+    <IsFadeUp>false</IsFadeUp>
+    <FadeUp>0</FadeUp>
+    <IsFadeDown>false</IsFadeDown>
+    <FadeDown>0</FadeDown>
+    <Logo/>
+    <IsRenderTextPrefixed>true</IsRenderTextPrefixed>
+   </FontRenderItem>
+  </Element>
+  <Element>
+   <FontRenderItem DbId="0eb0f90c-d326-4704-b38c-6e5a2d444bce">
+    <FieldsBlob>0000000100000002000000160054006500780074004f00700061006300690074007900000087003fe56fd840000000000000100046006f006e007400530069007a006500000087003f982d82e0000000</FieldsBlob>
+    <Text>Preview</Text>
+    <FontDesc>Open Sans,-1,51,5,50,0,0,0,0,0</FontDesc>
+    <Type>130</Type>
+    <X>1.5829351718288365e-17</X>
+    <Y>0.04907405376434326</Y>
+    <ForegroundColor>
+     <Element>1</Element>
+     <Element>1</Element>
+     <Element>1</Element>
+    </ForegroundColor>
+    <BackgroundColor>
+     <Element>0</Element>
+     <Element>0</Element>
+     <Element>0</Element>
+    </BackgroundColor>
+    <Opacity>0.1428571492433548</Opacity>
+    <HorzAlign>0</HorzAlign>
+    <IsFadeUp>false</IsFadeUp>
+    <FadeUp>0</FadeUp>
+    <IsFadeDown>false</IsFadeDown>
+    <FadeDown>0</FadeDown>
+    <Logo/>
+    <IsRenderTextPrefixed>true</IsRenderTextPrefixed>
+   </FontRenderItem>
+  </Element>
+  <Element>
+   <FontRenderItem DbId="5990cd25-1b80-4456-a6eb-8897f5cff22a">
+    <FieldsBlob>0000000100000001000000100046006f006e007400530069007a006500000087003f96c16c20000000</FieldsBlob>
+    <Text/>
+    <FontDesc>Open Sans,-1,48,5,50,0,0,0,0,0</FontDesc>
+    <Type>512</Type>
+    <X>0.5</X>
+    <Y>0</Y>
+    <ForegroundColor>
+     <Element>1</Element>
+     <Element>1</Element>
+     <Element>1</Element>
+    </ForegroundColor>
+    <BackgroundColor>
+     <Element>0</Element>
+     <Element>0</Element>
+     <Element>0</Element>
+    </BackgroundColor>
+    <Opacity>1</Opacity>
+    <HorzAlign>1</HorzAlign>
+    <IsFadeUp>false</IsFadeUp>
+    <FadeUp>0</FadeUp>
+    <IsFadeDown>false</IsFadeDown>
+    <FadeDown>0</FadeDown>
+    <Logo>/Users/sniderj/Documents/Kartik/DIC_Alpha.png</Logo>
+    <IsRenderTextPrefixed>true</IsRenderTextPrefixed>
+   </FontRenderItem>
+  </Element>
+ </InheritedCollection>
+</FontRenderItemVec>
